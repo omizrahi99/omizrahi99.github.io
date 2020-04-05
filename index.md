@@ -4,7 +4,7 @@
 
 ### Projects
 
-[Concentration - iOS Application](/sample_page)
+[Concentration - iOS Application](https://github.com/omizrahi99/Concentration-iOS-Application)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
