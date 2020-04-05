@@ -5,7 +5,7 @@
 ### Projects
 
 [Concentration - iOS Application](https://github.com/omizrahi99/Concentration-iOS-Application)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Screen Shot 2020-04-05 at 2.00.55 PM.png/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
