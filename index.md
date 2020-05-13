@@ -4,7 +4,7 @@
 
 ### Projects
 
-[Concentration - iOS Application](https://github.com/omizrahi99/Concentration-iOS-Application)
+[Concentration (iOS Application)](https://github.com/omizrahi99/Concentration-iOS-Application)
 
 ---
-[Object Detection](https://github.com/omizrahi99/ObjectDetection)
+[Object Detection (iOS Application)](https://github.com/omizrahi99/ObjectDetection)
