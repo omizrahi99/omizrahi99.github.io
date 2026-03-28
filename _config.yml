@@ -1,11 +1,6 @@
-title: Ori Mizrahi # your name (or website title) here
-logo: "/images/IMG_9114.JPG?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  Currently studying Computer Science at UC Santa Barbara
-  <br><br>
-  Here are a some of my favorite projects
-  <br><br>
-  <a href="https://www.linkedin.com/in/ori-mizrahi-146161154/">View My LinkedIn Profile</a> 
-  
+title: Bellevue Creative Studio | NYC Social Media Agency
+description: >
+  NYC-based social media agency offering expert social media management,
+  strategy, and content creation to boost your brand's online presence.
+
 theme: jekyll-theme-minimal
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
